@@ -15,14 +15,11 @@
 + 示意图
 ![](1.png)
 ```java
-/*
-    代码在Skill.java
- */
  package com.forskill;
  
  /**
   * @author hallele
-  * @date 2019/05/02 15:21
+  * @date 2018/05/02 15:21
   * @description version 1.0
   */
  public class Skill {
