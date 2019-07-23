@@ -36,7 +36,7 @@ public class InsertionSort {
                     ints[j + 1] = ints[j];
                 }
 
-                //插入到响应位置
+                //插入到相应位置
                 ints[j + 1] = ints[0];
             }
         }

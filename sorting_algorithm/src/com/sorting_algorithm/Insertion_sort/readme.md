@@ -2,7 +2,7 @@
 
 + [点击查看代码](InsertionSort.java)
 1. 直接排序
-![核心思想图](img/insertSort01.jpg "核心思想图")
+    + ![核心思想图](img/insertSort01.jpg "核心思想图")
 + 时间复杂度：
     1. 按照最坏的情况算
     ```text
